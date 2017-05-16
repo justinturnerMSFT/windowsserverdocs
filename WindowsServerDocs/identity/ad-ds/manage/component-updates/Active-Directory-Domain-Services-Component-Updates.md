@@ -14,7 +14,7 @@ ms.technology: identity-adds
 
 # Active Directory Domain Services Component Updates
 
->Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012
+>Applies To: Windows Server 2016, Windows Server 2012 R2
 
 This module introduces the components that received minor updates in the Directory Services and Identity spaces.  
   
